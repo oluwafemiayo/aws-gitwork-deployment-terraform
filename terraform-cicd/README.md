@@ -2,5 +2,5 @@
 Templates for AWS Terraform CI/CD
 
 
-forked from= video =>>
+forked from= video >>
 - [YouTube Demo video](https://www.youtube.com/watch?v=scecLqTeP3k)
